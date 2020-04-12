@@ -2,6 +2,8 @@
 <resources>
     <string name="app_name">LearningApp1.Droid</string>
     <string name="all_colors">All Colors</string>
+    <string name="colour">Colors:</string>
+    <string name="add_txt">Add text:</string>
     <string-array name="colors_items">
         <item>Red</item>
         <item>Green</item>

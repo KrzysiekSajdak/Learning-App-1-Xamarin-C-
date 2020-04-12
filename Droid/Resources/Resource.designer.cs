@@ -63,6 +63,15 @@ namespace LearningApp1.Droid
 			// aapt resource value: 0x7F020000
 			public const int color_spinner = 2130837504;
 			
+			// aapt resource value: 0x7F020001
+			public const int editText1 = 2130837505;
+			
+			// aapt resource value: 0x7F020002
+			public const int textView1 = 2130837506;
+			
+			// aapt resource value: 0x7F020003
+			public const int textView2 = 2130837507;
+			
 			static Id()
 			{
 				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
@@ -109,10 +118,16 @@ namespace LearningApp1.Droid
 		{
 			
 			// aapt resource value: 0x7F050000
-			public const int all_colors = 2131034112;
+			public const int add_txt = 2131034112;
 			
 			// aapt resource value: 0x7F050001
-			public const int app_name = 2131034113;
+			public const int all_colors = 2131034113;
+			
+			// aapt resource value: 0x7F050002
+			public const int app_name = 2131034114;
+			
+			// aapt resource value: 0x7F050003
+			public const int colour = 2131034115;
 			
 			static String()
 			{
